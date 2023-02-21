@@ -1,0 +1,6 @@
+# ignore the binary files
+slackmonitorsquelch
+
+# ignore the environment files
+.env
+**/.env
